@@ -168,5 +168,5 @@
 | `/development` | การพัฒนาตนเอง + รางวัล | `/admin/indicator/[id]` | ผลงานของตัวชี้วัด |
 | `/about` | ประวัติครู | `/admin/profile` | โปรไฟล์ครู |
 | `/contact` | ช่องทางติดต่อ | `/admin/self-dev` | การพัฒนาตนเอง |
-| `/indicator/[id]` | ตัวชี้วัดรายตัว | `/admin/awards` | รางวัล |
+| `/indicator/[id]` | ตัวชี้วัดรายตัว | `/admin/awards` | รางวัล |  `/work/[slug]` | ห้องเรียนออนไลน์|
 | `/work/[slug]` | รายละเอียดผลงาน | `/admin/settings` | ธีมสี · รหัสผ่าน · บันทึกการใช้งาน |
