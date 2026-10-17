@@ -14,6 +14,7 @@ const MENU: { key: MenuKey; href: string; label: string }[] = [
   { key: 'develop', href: '/development', label: 'การพัฒนาตนเอง' },
   { key: 'about', href: '/about', label: 'ประวัติครู' },
   { key: 'contact', href: '/contact', label: 'ติดต่อ' },
+    { key: 'contact', href: '/contact', label: 'ห้องเรียนออนไลน์' },
 ]
 
 export default function Header({ profile }: { profile: Profile | null }) {
